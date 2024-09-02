@@ -1,0 +1,14 @@
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\ConsoleAppProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\ConsoleAppProject.AssemblyInfoInputs.cache
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\ConsoleAppProject.AssemblyInfo.cs
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\ConsoleAppProject.csproj.CoreCompileInputs.cache
+C:\Users\Drazen\source\repos\ConsoleAppProject\bin\Debug\net8.0\ConsoleAppProject.exe
+C:\Users\Drazen\source\repos\ConsoleAppProject\bin\Debug\net8.0\ConsoleAppProject.deps.json
+C:\Users\Drazen\source\repos\ConsoleAppProject\bin\Debug\net8.0\ConsoleAppProject.runtimeconfig.json
+C:\Users\Drazen\source\repos\ConsoleAppProject\bin\Debug\net8.0\ConsoleAppProject.dll
+C:\Users\Drazen\source\repos\ConsoleAppProject\bin\Debug\net8.0\ConsoleAppProject.pdb
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\ConsoleAppProject.dll
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\refint\ConsoleAppProject.dll
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\ConsoleAppProject.pdb
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\ConsoleAppProject.genruntimeconfig.cache
+C:\Users\Drazen\source\repos\ConsoleAppProject\obj\Debug\net8.0\ref\ConsoleAppProject.dll
